@@ -1,1 +1,16 @@
+Malbolge
+
+Malbolge is a programming language invented by Ben Olmstead in 1998. As a curiosity, it is named after the eighth circle of hell, in Dante's Inferno. The name was not chosen at random - the language was specifically designed to make it impossible to write useful programs. Just to tell you, you need to be an expert in cryptography to write a meaningful program in it. This is what "Hello World" looks like in Malbolge:
+
+('&%:9]!~}|z2Vxwv-,POqponl$Hjig%eB@@>}=<M:9wv6WsU2T|nm-,jcL(I&%$#"
+`CB]V?Tx<uVtT`Rpo3NlF.Jh++FdbCBA@?]!~|4XzyTT43Qsqq(Lnmkj"Fhg${z@>
+
+------------------------------------------------------------------------------------
+Chicken
+
+Chicken is not only the name of the language, but also the only word that can be used in it. The number of repetitions and line breaks determines the operation to be performed. Exemple:
+
+chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken chicken
+chicken chicken chicken chicken chicken chicken
+
 
